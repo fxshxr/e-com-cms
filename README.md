@@ -6,8 +6,7 @@
 фильтрации товаров, добавление товаров 
 в корзину
 
-## Используемые технологии и 
-платформы
+## Используемые технологии и платформы
 
 Figma, HTML, CSS, JavaScript, React.js, 
 React.Bootstrap, axios, jwt-decode, mobx, 
